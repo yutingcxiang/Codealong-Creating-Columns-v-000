@@ -142,3 +142,10 @@ section {
   width: 40px;
   z-index: 1;
 }
+  
+#social a {
+  display: block;
+  width: 40px;
+  height: 40px;
+  background: yellow;
+}
