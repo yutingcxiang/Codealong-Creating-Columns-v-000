@@ -101,6 +101,8 @@ figcaption {
   content: ".";
   display: block;
   clear: both;
+  visibility: hidden;
+  height: 0;
 }
 
 [class*="col-"] {
